@@ -1,0 +1,4 @@
+#Thu Jun 07 14:56:30 WIB 2018
+base.0=/home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/build/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex

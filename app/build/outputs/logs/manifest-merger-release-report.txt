@@ -1,0 +1,589 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+MERGED from [com.android.support:design:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/c703b817011315a96b285106baaf7681/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/d8efafde710b6ade487765e662e35d83/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.4.0.aar/17f137f498318cda2542588c1d9da59a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.1.1.aar/f4d97c426ebe85c9039e331f771eae62/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/78fb829152d5c3829cd8af6b98ab1e26/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/e2a14a3c326b802ade61c569cb6f8027/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.4.0.aar/a5fd118902d75707cd6774616a0336f3/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.4.0.aar/85edd18ef73d3742ffc96c62ba8a402f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/e0447a39ae8653d3c6c76ede8a4cadb8/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/62fc22f30263173a2e5b5e38445c3cef/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.4.0.aar/fac477a97c59fa21d04d7f3c574d4fc6/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.4.0.aar/93f0a6278013a4da3149fde81ee84189/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.4.0.aar/d3b6f36fa9962e77ed5999dc775abd6e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/d2338ffa3c5e4d1bd31e5c83b6b79e10/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.4.0.aar/e1f6bc8534d190ecb90142921018cd2d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/11fbf2df012fbcffdf6e3b769fdab3d9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.4.0.aar/abf53efc788630cd1b6fa55b5acaa224/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.4.0.aar/7081d3d0da0d7ba631bf43ee4c5260e3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.4.0.aar/f5dcd4b7c79971ec00e2e9a79e799004/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6ce17482f1bba42d5a711670f756bb22/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:palette-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/palette-v7-23.1.1.aar/ba7c143bf2620cc90d49f3c355ca2055/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/859ce6f4b818283931a54399f11e1ac2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/2031a2d8ea1ff7cb304bae6a2ea2e832/AndroidManifest.xml:1:70-7:12
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:1-182:12
+	package
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:3:7-40
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:9:5-152:19
+MERGED from [com.android.support:design:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/c703b817011315a96b285106baaf7681/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/c703b817011315a96b285106baaf7681/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/d8efafde710b6ade487765e662e35d83/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/d8efafde710b6ade487765e662e35d83/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.4.0.aar/17f137f498318cda2542588c1d9da59a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.4.0.aar/17f137f498318cda2542588c1d9da59a/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.1.1.aar/f4d97c426ebe85c9039e331f771eae62/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.1.1.aar/f4d97c426ebe85c9039e331f771eae62/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/78fb829152d5c3829cd8af6b98ab1e26/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/78fb829152d5c3829cd8af6b98ab1e26/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.4.0.aar/a5fd118902d75707cd6774616a0336f3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.4.0.aar/a5fd118902d75707cd6774616a0336f3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.4.0.aar/85edd18ef73d3742ffc96c62ba8a402f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.4.0.aar/85edd18ef73d3742ffc96c62ba8a402f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/e0447a39ae8653d3c6c76ede8a4cadb8/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/e0447a39ae8653d3c6c76ede8a4cadb8/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/62fc22f30263173a2e5b5e38445c3cef/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/62fc22f30263173a2e5b5e38445c3cef/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.4.0.aar/fac477a97c59fa21d04d7f3c574d4fc6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.4.0.aar/fac477a97c59fa21d04d7f3c574d4fc6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.4.0.aar/d3b6f36fa9962e77ed5999dc775abd6e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.4.0.aar/d3b6f36fa9962e77ed5999dc775abd6e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/d2338ffa3c5e4d1bd31e5c83b6b79e10/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/d2338ffa3c5e4d1bd31e5c83b6b79e10/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.4.0.aar/e1f6bc8534d190ecb90142921018cd2d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.4.0.aar/e1f6bc8534d190ecb90142921018cd2d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/11fbf2df012fbcffdf6e3b769fdab3d9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/11fbf2df012fbcffdf6e3b769fdab3d9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.4.0.aar/abf53efc788630cd1b6fa55b5acaa224/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.4.0.aar/abf53efc788630cd1b6fa55b5acaa224/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.4.0.aar/7081d3d0da0d7ba631bf43ee4c5260e3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.4.0.aar/7081d3d0da0d7ba631bf43ee4c5260e3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.4.0.aar/f5dcd4b7c79971ec00e2e9a79e799004/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.4.0.aar/f5dcd4b7c79971ec00e2e9a79e799004/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:palette-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/palette-v7-23.1.1.aar/ba7c143bf2620cc90d49f3c355ca2055/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/palette-v7-23.1.1.aar/ba7c143bf2620cc90d49f3c355ca2055/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/859ce6f4b818283931a54399f11e1ac2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/859ce6f4b818283931a54399f11e1ac2/AndroidManifest.xml:22:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/2031a2d8ea1ff7cb304bae6a2ea2e832/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/2031a2d8ea1ff7cb304bae6a2ea2e832/AndroidManifest.xml:5:5-19
+	android:supportsRtl
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:13:3-29
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:12:3-35
+	android:icon
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:11:3-36
+	android:theme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:14:3-41
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:10:3-55
+uses-library#com.google.android.maps
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:16:6-61
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:16:20-58
+activity#org.inkubator.radinaldn.SplashActivity
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:19:13-49
+	android:theme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:18:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:23:27-74
+activity#org.inkubator.radinaldn.Login
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:28:4-54
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:27:19-63
+intent-filter#android.intent.category.DEFAULT+org.android10.intent.action.LAUNCH_MAIN
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:31:13-34:29
+action#org.android10.intent.action.LAUNCH_MAIN
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:32:25-79
+category#android.intent.category.DEFAULT
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:33:27-73
+activity#org.inkubator.radinaldn.ListActivity
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:37:19-70
+activity#org.inkubator.radinaldn.LaporKecelakaan
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:42:3-46:14
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:44:4-40
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:43:4-36
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:42:13-67
+activity#org.inkubator.radinaldn.FAQActivity
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:48:3-52:14
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:50:4-40
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:49:4-28
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:48:13-63
+activity#org.inkubator.radinaldn.News
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:54:3-58:14
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:56:4-40
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:55:4-36
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:54:13-56
+activity#org.inkubator.radinaldn.MainActivity
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:59:3-64:14
+	android:theme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:61:4-54
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:60:4-55
+activity#org.inkubator.radinaldn.Register
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:66:3-71:14
+	android:theme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:68:4-42
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:67:4-51
+activity#org.mixare.MixView
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:74:9-93:20
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:75:13-50
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:74:19-51
+	android:launchMode
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:76:19-49
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:74:52-85
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:78:13-84:29
+action#android.intent.action.VIEW
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:79:19-71
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:79:27-68
+category#android.intent.category.BROWSABLE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:81:7-68
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:81:17-65
+data
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:82:7-82
+	android:scheme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:82:13-34
+	android:mimeType
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:82:35-80
+intent-filter#android.intent.action.SEARCH
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:86:13-88:26
+action#android.intent.action.SEARCH
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:87:14-67
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:87:22-65
+meta-data#android.app.searchable
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:89:10-90:57
+	android:resource
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:90:21-55
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:89:21-58
+meta-data#android.app.default_searchable
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:91:13-92:45
+	android:value
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:92:18-42
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:91:24-69
+activity#org.mixare.MixListView
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:95:9-103:14
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:96:4-36
+	android:launchMode
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:97:4-34
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:95:19-56
+activity#org.mixare.MixMap
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:105:3-113:14
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:106:4-36
+	android:launchMode
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:107:4-34
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:105:13-45
+meta-data#ADMOB_PUBLISHER_ID
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:118:3-67
+	android:value
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:118:14-30
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:118:31-64
+activity#com.admob.android.ads.AdMobActivity
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:121:3-123:65
+	android:configChanges
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:123:3-62
+	android:theme
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:122:3-61
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:121:13-63
+activity#org.inkubator.radinaldn.MapsView
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:125:4-129:20
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:127:13-45
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:126:13-60
+activity#org.inkubator.radinaldn.Detail
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:131:3-134:14
+	android:screenOrientation
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:133:7-43
+	android:label
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:132:7-39
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:131:13-58
+receiver#com.admob.android.ads.analytics.InstallReceiver
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:137:3-142:14
+	android:exported
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:138:3-26
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:137:13-75
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:139:4-141:20
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:140:6-68
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:140:14-65
+meta-data#ADMOB_ALLOW_LOCATION_FOR_ADS
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:144:9-87
+	android:value
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:144:20-41
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:144:42-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:146:10-148:71
+	android:value
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:148:13-68
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:147:13-62
+meta-data#com.google.android.gms.version
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:149:9-151:71
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:151:15-68
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:150:15-60
+permission#org.inkubator.radinaldn.MAPS_RECEIVE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:154:5-156:47
+	android:protectionLevel
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:156:9-44
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:155:9-60
+uses-sdk
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:5-44
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:5-44
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:5-44
+MERGED from [com.android.support:design:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/c703b817011315a96b285106baaf7681/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/c703b817011315a96b285106baaf7681/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/d8efafde710b6ade487765e662e35d83/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/d8efafde710b6ade487765e662e35d83/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.4.0.aar/17f137f498318cda2542588c1d9da59a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.4.0.aar/17f137f498318cda2542588c1d9da59a/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.1.1.aar/f4d97c426ebe85c9039e331f771eae62/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.1.1.aar/f4d97c426ebe85c9039e331f771eae62/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/78fb829152d5c3829cd8af6b98ab1e26/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/78fb829152d5c3829cd8af6b98ab1e26/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/e2a14a3c326b802ade61c569cb6f8027/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/e2a14a3c326b802ade61c569cb6f8027/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.4.0.aar/a5fd118902d75707cd6774616a0336f3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.4.0.aar/a5fd118902d75707cd6774616a0336f3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.4.0.aar/85edd18ef73d3742ffc96c62ba8a402f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.4.0.aar/85edd18ef73d3742ffc96c62ba8a402f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/e0447a39ae8653d3c6c76ede8a4cadb8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/e0447a39ae8653d3c6c76ede8a4cadb8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/62fc22f30263173a2e5b5e38445c3cef/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/62fc22f30263173a2e5b5e38445c3cef/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.4.0.aar/fac477a97c59fa21d04d7f3c574d4fc6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.4.0.aar/fac477a97c59fa21d04d7f3c574d4fc6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.4.0.aar/93f0a6278013a4da3149fde81ee84189/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.4.0.aar/93f0a6278013a4da3149fde81ee84189/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.4.0.aar/d3b6f36fa9962e77ed5999dc775abd6e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.4.0.aar/d3b6f36fa9962e77ed5999dc775abd6e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/d2338ffa3c5e4d1bd31e5c83b6b79e10/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/d2338ffa3c5e4d1bd31e5c83b6b79e10/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.4.0.aar/e1f6bc8534d190ecb90142921018cd2d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.4.0.aar/e1f6bc8534d190ecb90142921018cd2d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/11fbf2df012fbcffdf6e3b769fdab3d9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/11fbf2df012fbcffdf6e3b769fdab3d9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.4.0.aar/abf53efc788630cd1b6fa55b5acaa224/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.4.0.aar/abf53efc788630cd1b6fa55b5acaa224/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.4.0.aar/7081d3d0da0d7ba631bf43ee4c5260e3/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.4.0.aar/7081d3d0da0d7ba631bf43ee4c5260e3/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.4.0.aar/f5dcd4b7c79971ec00e2e9a79e799004/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.4.0.aar/f5dcd4b7c79971ec00e2e9a79e799004/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6ce17482f1bba42d5a711670f756bb22/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6ce17482f1bba42d5a711670f756bb22/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e6fb948fbf8fc8255ba16fe1c61c75b8/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:palette-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/palette-v7-23.1.1.aar/ba7c143bf2620cc90d49f3c355ca2055/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/palette-v7-23.1.1.aar/ba7c143bf2620cc90d49f3c355ca2055/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/859ce6f4b818283931a54399f11e1ac2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/859ce6f4b818283931a54399f11e1ac2/AndroidManifest.xml:20:5-43
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/2031a2d8ea1ff7cb304bae6a2ea2e832/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/2031a2d8ea1ff7cb304bae6a2ea2e832/AndroidManifest.xml:3:5-72
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:5-44
+INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:5-44
+	android:targetSdkVersion
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:5-44
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:158:15-41
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+		INJECTED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:159:2-64
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:159:19-61
+uses-permission#android.permission.CAMERA
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:161:2-62
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:161:19-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:163:2-78
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:163:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:164:2-77
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:164:19-74
+uses-feature#android.hardware.camera
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:165:2-57
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:165:16-54
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:166:2-67
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:166:16-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:167:2-66
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:167:19-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:168:2-72
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:168:19-69
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:169:2-78
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:169:19-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:170:2-78
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:170:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:171:5-79
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:171:22-76
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:173:5-74
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:173:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:175:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.4.0.aar/9155b165fb083a7d5290862c7cd018a7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/70aa659bf8292e6fa8f15d41c36d72c9/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:175:22-76
+uses-permission#org.android.adha.MAPS_RECEIVE
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:176:5-69
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:176:22-66
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:177:5-98
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:177:22-95
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:178:5-84
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/radinaldn/AndroidStudioProjects/AR-LocationBased/app/src/main/AndroidManifest.xml:178:22-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/72d11940b300703cb46771a803c843dc/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/796818f4ff9780997eba8ae13a84fa80/AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.4.0.aar/6c665edb91c16f238b910965f2130dc0/AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/c1cabead244f42dedded34480e77b1bb/AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/32bef169388dee1c96bf182330197bc0/AndroidManifest.xml:24:8-31
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/radinaldn/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.4.0.aar/b0991b1fc9abfd9cac79d348c75ee7b8/AndroidManifest.xml:42:11-82
